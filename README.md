@@ -1,4 +1,20 @@
-# pair-programming-ml
-Shopify's pair programming interview
+# Pair Programming ML
 
-I am going to collaborate with an Interviewer from Shopify and work on building a solution for a problem given. It is a pair programming session where I will be working as the Driver, and the interviewer will be the navigator.
+## Shopify Pair Programming Interview Preparation
+
+This repository is dedicated to preparing for the upcoming pair programming interview with Shopify. The session will focus on collaboratively solving a technical problem, with myself as the Driver and the Shopify interviewer as the Navigator.
+
+## Session Details
+
+- **Date:** 07/25/2025
+- **Format:** Pair Programming (Driver/Navigator)
+- **Objective:** Build an effective solution to the given problem, demonstrating strong coding, communication, and collaboration skills.
+
+## Notes
+
+- All code and documentation will be maintained in this repository.
+- Please refer to individual files for implementation details and progress updates.
+
+---
+
+Looking forward to a productive and engaging session!
