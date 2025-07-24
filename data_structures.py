@@ -37,5 +37,3 @@ class LinkedList:
         self.head = None
     # TODO: Add methods for insert, delete, search, etc.
 
-# Add more data structures or problems as needed below
-# TODO: Implement more data structures and related problems
